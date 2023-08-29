@@ -1,0 +1,33 @@
+﻿@model FPTBook_v3.Models.Category
+
+@{
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+}
+
+
+<div class="col-md-8 grid-margin stretch-card" style="margin-left:230px">
+    <div class="card">
+        <div class="card-body">
+            <h3 class="card-title" style="text-align:center">Create Category</h3>
+            <form class="forms-sample" asp-controller="Category" asp-action="Create" method="post">
+                <div class="form-group">
+                    <label >Category Name</label>
+                    <input type="text" class="form-control" asp-for="cate_Name"  placeholder="Category Name">
+                </div>
+                <div class="form-group">
+                    <label >Category Description</label>
+                    <input type="text" class="form-control" asp-for="cate_Description" placeholder="Category Description">
+                </div>
+               
+                <button type="submit" class="btn btn-gradient-primary me-2">Submit</button>
+                <a class="btn btn-light" asp-controller="Category" asp-action="Index">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

@@ -1,0 +1,103 @@
+﻿@model FPTBook_v3.Models.Book
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+}
+
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        <strong>
+            Fail Create Not Success!
+        </strong>@TempData["Error"]
+    </div>
+}
+<br />
+
+@if (TempData["Fail"] != null)
+{
+    <div class="alert alert-danger">
+        <strong>
+            Fail
+        </strong>@TempData["Fail"]
+    </div>
+}
+<br />
+<div class="col-md-8 grid-margin stretch-card" style="margin-left:230px">
+    <div class="card">
+        <div class="card-body">
+            <h3 class="card-title" style="text-align:center">Create Book</h3>
+            <form class="forms-sample" asp-controller="Book" asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label>Book Title</label>
+                    <input type="text" class="form-control" asp-for="book_Title" placeholder="Book Title">
+                    <span asp-validation-for="book_Title"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Category</label>
+                    <div>
+                        <select asp-for="cate_Id" class="form-control" asp-items="ViewBag.cate_Id">
+                        </select>
+                        <span asp-validation-for="cate_Id" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Publication Date</label>
+                    <input type="date" asp-for="publication_date" class="form-control" />
+                    <span class="text-danger" asp-validation-for="publication_date"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Book Price</label>
+                    <input type="number" class="form-control" asp-for="book_Price" placeholder="Book Price">
+                    <span asp-validation-for="book_Price"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Book Quantity</label>
+                    <input type="number" class="form-control" asp-for="book_Quantity" placeholder="Book Quantity">
+                    <span asp-validation-for="book_Quantity"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Book Image</label>
+                   
+                    <input type="file" asp-for="book_Img" onchange="chooseFile(this)" accept="image/gif, image/jpeg, image/png" />
+                    <br/>
+                    <img src="~/images/NoImage.png"style="height:200px;width:250px; margin-top:10px" id="image" />
+                    <span asp-validation-for="book_Img" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Book Description</label>
+                    <input type="text" asp-for="book_Description" class="form-control" />
+                    <span class="text-danger" asp-validation-for="book_Description"></span>
+                </div>
+                <button type="submit" class="btn btn-gradient-primary me-2">Submit</button>
+                <a class="btn btn-light" asp-action="Index">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    function chooseFile(fileInput){
+        if(fileInput.files && fileInput.files[0]){
+            var render = new FileReader();
+
+            render.onload = function(e){
+                $('#image').attr('src',e.target.result);
+            }
+            render.readAsDataURL(fileInput.files[0]);
+        }
+    }
+</script>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

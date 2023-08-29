@@ -1,0 +1,238 @@
+﻿@model BookDisplayModel
+
+
+<div class="my-2" style="margin-left: 750px">
+    <form asp-action="Index" class="row col-12 align-items-center">
+        <div class="col-4">
+            <label class="visually-hidden" for="genreId">Catgory</label>
+            <select class="form-select" id="genreId" name="genreId">
+                <option selected>Catgory choose</option>
+                @foreach (var genre in Model.Categorys)
+                {
+                    <option selected="@(genre.cate_Id == Model.GenreId)" value="@genre.cate_Id">@genre.cate_Name</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-4">
+            <label class="visually-hidden" for="sterm">Search by title</label>
+            <div class="input-group">
+                <div class="input-group-text"></div>
+                <input type="text" class="form-control" value="@Model.STerm" id="sterm" name="sterm" placeholder="Search by title">
+            </div>
+        </div>
+
+        <div class="col-4">
+            <button type="submit" asp-controller="Home" asp-action="ShowBook" class="btn btn-info">Search</button>
+        </div>
+    </form>
+</div>
+
+
+<div class="w-100 mt-4 d-flex flex-wrap ">
+    <div class="row">
+        <h3>Book Under 10 INR</h3>
+        @foreach (var book in Model.Books)
+        {
+            if (book.book_Price <= 10)
+            {
+                <div class="col-lg-3 ">
+                    <div class="card mx-4 mb-2 " style="width: 16rem;">
+                        <a asp-controller="Home" asp-action="BookDetail" asp-route-cate="@book.category.cate_Name" asp-route-id="@book.book_Id">
+                            @if (string.IsNullOrEmpty(book.book_ImagURL))
+                            {
+                                <img style="width:100%;height:180px" src="~/images/NoImage.png" class="card-img-top" alt="...">
+
+                            }
+                            else
+                            {
+                                <img style="width:100%;height:180px" src="~/uploads/@book.book_ImagURL" class="card-img-top" alt="...">
+                            }
+                        </a>
+                        <div class="card-body" style="height: 270px;width: 275px;">
+                            <h5 class="card-title">@book.book_Title</h5>
+                            <p class="card-text">
+                                <b>Category: </b>@book.category.cate_Name <br />
+                                <b>Price: </b>@book.book_Price<br />
+                                <b>Quantity: </b>@book.book_Quantity
+                            </p>
+                            @if (book.book_Quantity == 0)
+                            {
+                                <button type="button" class="btn btn-secondary">Out Of Stock</button>
+                            }
+                            else
+                            {
+                                <button type="button" onclick="add(@book.book_Id)" class="btn btn-success"><i class="bi bi-cart text-white"></i></button>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            }
+
+        }
+
+        <div>
+            <br />
+            <br />
+        </div>
+
+        <h3>Category Romance</h3>
+        @foreach (var book in Model.Books)
+        {
+            if (book.category.cate_Name == "Romance")
+            {
+                <div class="col-lg-3 ">
+                    <div class="card mx-4 mb-2 " style="width: 16rem;">
+                        <a asp-controller="Home" asp-action="BookDetail" asp-route-cate="@book.category.cate_Name" asp-route-id="@book.book_Id">
+                            @if (string.IsNullOrEmpty(book.book_ImagURL))
+                            {
+                                <img style="width:100%;height:180px" src="~/images/NoImage.png" class="card-img-top" alt="...">
+
+                            }
+                            else
+                            {
+                                <img style="width:100%;height:180px" src="~/uploads/@book.book_ImagURL" class="card-img-top" alt="...">
+                            }
+                        </a>
+                        <div class="card-body" style="height: 270px;width: 275px;">
+                            <h5 class="card-title">@book.book_Title</h5>
+                            <p class="card-text">
+                                <b>Category: </b>@book.category.cate_Name <br />
+                                <b>Price: </b>@book.book_Price<br />
+                                <b>Quantity: </b>@book.book_Quantity
+                            </p>
+                            @if (book.book_Quantity == 0)
+                            {
+                                <button type="button" class="btn btn-secondary">Out Of Stock</button>
+                            }
+                            else
+                            {
+                                <button type="button" onclick="add(@book.book_Id)" class="btn btn-success"><i class="bi bi-cart text-white"></i></button>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            }
+
+        }
+
+        <div>
+            <br />
+            <br />
+        </div>
+
+        <h3>Category Fiction</h3>
+        @foreach (var book in Model.Books)
+        {
+            if (book.category.cate_Name == "Fiction")
+            {
+                <div class="col-lg-3 ">
+                    <div class="card mx-4 mb-2 " style="width: 16rem;">
+                        <a asp-controller="Home" asp-action="BookDetail" asp-route-cate="@book.category.cate_Name" asp-route-id="@book.book_Id">
+                            @if (string.IsNullOrEmpty(book.book_ImagURL))
+                            {
+                                <img style="width:100%;height:180px" src="~/images/NoImage.png" class="card-img-top" alt="...">
+
+                            }
+                            else
+                            {
+                                <img style="width:100%;height:180px" src="~/uploads/@book.book_ImagURL" class="card-img-top" alt="...">
+                            }
+                        </a>
+                        <div class="card-body" style="height: 270px;width: 275px;">
+                            <h5 class="card-title">@book.book_Title</h5>
+                            <p class="card-text">
+                                <b>Category: </b>@book.category.cate_Name <br />
+                                <b>Price: </b>@book.book_Price<br />
+                                <b>Quantity: </b>@book.book_Quantity
+                            </p>
+                            @if (book.book_Quantity == 0)
+                            {
+                                <button type="button" class="btn btn-secondary">Out Of Stock</button>
+                            }
+                            else
+                            {
+                                <button type="button" onclick="add(@book.book_Id)" class="btn btn-success"><i class="bi bi-cart text-white"></i></button>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            }
+
+        }
+
+        <h3>Category IT</h3>
+        @foreach (var book in Model.Books)
+        {
+            if (book.category.cate_Name == "IT")
+            {
+                <div class="col-lg-3 ">
+                    <div class="card mx-4 mb-2 " style="width: 16rem;">
+                        <a asp-controller="Home" asp-action="BookDetail" asp-route-cate="@book.category.cate_Name" asp-route-id="@book.book_Id">
+                            @if (string.IsNullOrEmpty(book.book_ImagURL))
+                            {
+                                <img style="width:100%;height:180px" src="~/images/NoImage.png" class="card-img-top" alt="...">
+
+                            }
+                            else
+                            {
+                                <img style="width:100%;height:180px" src="~/uploads/@book.book_ImagURL" class="card-img-top" alt="...">
+                            }
+                        </a>
+                        <div class="card-body" style="height: 270px;width: 275px;">
+                            <h5 class="card-title">@book.book_Title</h5>
+                            <p class="card-text">
+                                <b>Category: </b>@book.category.cate_Name <br />
+                                <b>Price: </b>@book.book_Price<br />
+                                <b>Quantity: </b>@book.book_Quantity
+                            </p>
+                            @if (book.book_Quantity == 0)
+                            {
+                                <button type="button" class="btn btn-secondary">Out Of Stock</button>
+                            }
+                            else
+                            {
+                                <button type="button" onclick="add(@book.book_Id)" class="btn btn-success"><i class="bi bi-cart text-white"></i> </button>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            }
+
+        }
+    </div>
+</div>
+
+
+@section Scripts{
+    <script>
+        async function add(bookId) {
+            var usernameEl = document.getElementById("username");
+            if (usernameEl == null) {
+                window.location.href = "/Identity/Account/Login";
+                //var username=usernameEl.innerText;
+                //  if(username.length<1){
+                //      window.location.href="/Identity/Account/Login";
+                //  }
+            }
+            try {
+                var response = await fetch(`/User/Cart/AddItem?bookId=${bookId}`);
+                if (response.status == 200) {
+                    var result = await response.json();
+                    var cartCountEl = document.getElementById("cartCount");
+                    cartCountEl.innerHTML = result;
+                    window.location.href = "/User/Cart/GetUserCart";
+                }
+            }
+            catch (err) {
+                console.log(err);
+            }
+        }
+    </script>
+}
+
+

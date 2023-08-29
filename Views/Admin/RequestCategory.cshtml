@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Category>
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="card">
+    <div class="card-body">
+        <h1 class="card-title" style="text-align:center; font-size:30px">Category</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Category Name
+                    </th>
+                    <th>
+                        Category Description
+                    </th>
+
+                    <th>
+
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.cate_Name
+                        </td>
+                        <td>
+                            @item.cate_Description
+                        </td>
+                        <td>
+                            <a class="btn btn-primary" asp-controller="Admin" asp-action="Approval" asp-route-id="@item.cate_Id">Approval</a>
+                            <a class="btn btn-danger" asp-controller="Admin" asp-action="Reject" asp-route-id="@item.cate_Id" onclick="return confirm ('Are you sure?')">Reject</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

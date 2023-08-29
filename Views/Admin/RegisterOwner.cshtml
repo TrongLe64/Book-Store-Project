@@ -1,0 +1,61 @@
+﻿@model FPTBook_v3.Models.Owner
+
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@if (TempData["Fail"] != null)
+{
+    <div class="alert alert-danger">
+        <strong>
+            Error
+        </strong>@TempData["Fail"]
+    </div>
+}
+<br />
+<div class="col-md-8 grid-margin stretch-card" style="margin-left:230px">
+    <div class="card">
+        <div class="card-body">
+            <h3 class="card-title" style="text-align:center">Create Owner</h3>
+            <form asp-controller="Admin" asp-action="RegisterOwner" method="post" enctype="multipart/form-data">
+
+                <div class="form-group">
+                    <label>User Name</label>
+                    <input type="text" asp-for="User_Name" class="form-control" aria-required="true" />
+                    <span asp-validation-for="User_Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="email" asp-for="Email" class="form-control" aria-required="true" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">    
+                    <label>Phone</label>
+                    <input type="text" asp-for="PhoneNumber" class="form-control" aria-required="true" />
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Password</label>
+                    <input type="password" asp-for="Password" class="form-control" aria-required="true" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label >ConfirmPassword</label>
+                    <input type="password" asp-for="ConfirmPassword" class="form-control" aria-required="true" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+
+                <input type="submit" value="Register" class="btn btn-primary" />
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,201 @@
+﻿@model IEnumerable<Order>
+@{
+    ViewData["Title"] = "Order";
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+}
+
+<h1 class="card-title" style="text-align:center; font-size:30px">Orders</h1>
+<div style="width:100%" class="mt-2">
+    @if (Model != null && Model.Count() > 0)
+    {
+        <table class="table table-striped">
+            @foreach (var order in Model)
+            {
+                var hasUnshippedItems = false;
+
+                @if (order.OrderDetail != null && order.OrderDetail.Count > 0)
+                {
+                    foreach (var item in order.OrderDetail)
+                    {
+                        if (item.IsShipped != true && item.OrderId == order.Id)
+                        {
+                            hasUnshippedItems = true;
+                            break;
+                        }
+                    }
+
+                    if (hasUnshippedItems)
+                    {
+                        <tr>
+                            <td >
+                                User Name: @order.ApplicationUsers.User_Name <br />
+                                User Email: @order.ApplicationUsers.Email <br />
+                                Order: @order.CreateDate.ToString("dd-MM-yyyy")
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style ="background-color:whitesmoke">
+                                <table class="table table-striped">
+                                    <tr style=" display:flex;align-items:center">
+                                        <td style="padding:28px">
+                                            Total:
+                                        </td>
+                                        <td style="padding:28px">
+                                            @(order.OrderDetail.Select(item => item.Book.book_Price * item.Quantity).Sum())
+                                        </td>
+                                        <td>
+                                            <a style="height:40px;margin-right:auto;"
+                                               class="btn btn-primary"
+                                               asp-controller="Order"
+                                               asp-action="UpdateShipStatus"
+                                               asp-route-id="@order.Id">
+                                                Ship
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Book</th>
+                                        <th>Image</th>
+                                        <th>Category</th>
+                                        <th>Unit Price(INR)</th>
+                                        <th>Total Price</th>
+                                    </tr>
+                                    @foreach (var item in order.OrderDetail)
+                                    {
+                                        if (item.IsShipped != true && item.OrderId == order.Id)
+                                        {
+                                            <tr>
+                                                <td>@item.Book.book_Title</td>
+                                                <td>
+                                                    @if (string.IsNullOrEmpty(item.Book.book_ImagURL))
+                                                    {
+                                                        <img src="~/images/NoImage.png" style="width:80px;height:100px" />
+                                                    }
+                                                    else
+                                                    {
+                                                        <img src="~/uploads/@item.Book.book_ImagURL" style="width:80px;height:100px" />
+                                                    }
+                                                </td>
+                                                <td>@item.Book.category.cate_Name</td>
+                                                <td>@item.Book.book_Price X @item.Quantity</td>
+                                                <td> @(item.Book.book_Price * item.Quantity) </td>
+                                            </tr>
+                                        }
+                                    }
+                                </table>
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        </table>
+    }
+    else
+    {
+        <h5>No orders</h5>
+    }
+</div>
+
+
+
+<tr>--------------------------------------------------------------------------------------------------------------------------</tr>
+<tr>--------------------------------------------------------------------------------------------------------------------------</tr>
+
+<h1 class="card-title" style="text-align:center; font-size:30px">Shiped Orders</h1>
+<div style="width:100%" class="mt-2">
+    @if (Model != null && Model.Count() > 0)
+    {
+        <table class="table table-striped">
+            @foreach (var order in Model)
+            {
+                var allItemsShipped = true;
+
+                @if (order.OrderDetail != null && order.OrderDetail.Count > 0)
+                {
+                    foreach (var item in order.OrderDetail)
+                    {
+                        if (item.IsShipped != true)
+                        {
+                            allItemsShipped = false;
+                            break;
+                        }
+                    }
+
+                    if (allItemsShipped)
+                    {
+                        <tr>
+                            <td>
+                                User Name: @order.ApplicationUsers.User_Name <br />
+                                User Email: @order.ApplicationUsers.Email <br />
+                                Order: @order.CreateDate.ToString("dd-MM-yyyy")
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="background-color:whitesmoke ">
+                                <table class="table table-striped">
+                                    <tr style=" display:flex;align-items:center">
+                                        <td style="padding:28px">
+                                            Total:
+                                        </td>
+                                        <td style="padding:28px">
+                                            @(order.OrderDetail.Select(item => item.Book.book_Price * item.Quantity).Sum())
+                                        </td>
+                                        <td>
+                                            <a style="height:40px;margin-right:auto;"
+                                               class="btn btn-primary"
+                                               asp-controller="Order"
+                                               asp-action="ResetShipStatus"
+                                               asp-route-id="@order.Id">
+                                                Reset
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Book</th>
+                                        <th>Image</th>
+                                        <th>Category</th>
+                                        <th>Unit Price(INR)</th>
+                                        <th>Total Price</th>
+                                    </tr>
+                                    @foreach (var item in order.OrderDetail)
+                                    {
+                                        if (item.IsShipped)
+                                        {
+                                            <tr>
+                                                <td>@item.Book.book_Title</td>
+                                                <td>
+                                                    @if (string.IsNullOrEmpty(item.Book.book_ImagURL))
+                                                    {
+                                                        <img src="~/images/NoImage.png" style="width:80px;height:100px" />
+                                                    }
+                                                    else
+                                                    {
+                                                        <img src="~/uploads/@item.Book.book_ImagURL" style="width:80px;height:100px" />
+                                                    }
+                                                </td>
+                                                <td>@item.Book.category.cate_Name</td>
+                                                <td>@item.Book.book_Price X @item.Quantity</td>
+                                                <td> @(item.Book.book_Price * item.Quantity) </td>
+                                            </tr>
+                                        }
+                                    }
+                                </table>
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        </table>
+    }
+    else
+    {
+        <h5>No orders</h5>
+    }
+</div>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

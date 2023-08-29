@@ -1,0 +1,98 @@
+﻿@using X.PagedList.Mvc.Core;
+@model BookDisplayModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+}
+
+
+
+<div class="card">
+    <div class="card-body">
+        <h1 class="card-title" style="text-align:center; font-size:30px">Book</h1>
+
+        <a class="btn btn-primary mdi mdi-plus" asp-controller="Book" asp-action="Create">  New Book</a>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Title
+                    </th>
+                    <th>
+                        Image
+                    </th>
+                    <th>
+                        Price
+                    </th>
+                    <th>
+                        Category
+                    </th>
+                    <th>
+                        Quantity
+                    </th>
+                    <th>
+                        Publication Date
+                    </th>
+                    <th>
+                        Description
+                    </th>
+                    <th>
+
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model.Books)
+                {
+                    <tr>
+                        <td style="width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 25px;
+    -webkit-line-clamp: 3;
+    height: 75px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;">
+                            @book.book_Title
+                        </td>
+                        <td>
+                            @if (book.book_ImagURL == null)
+                            {
+                                <img src="~/images/NoImage.png" width="100px" height="150px">
+
+                            }else
+                            {
+                                <img src="~/uploads/@book.book_ImagURL" width="100px" height="150px">
+                            }
+                        </td>
+                        <td>@book.book_Price</td>
+                        <td>@book.category.cate_Name</td>
+                        <td>@book.book_Quantity</td>
+                        <td>@book.publication_date.ToString("dd/MM/yyyy")</td>
+                        <td style="width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 25px;
+    -webkit-line-clamp: 3;
+    height: 75px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;">
+                            @book.book_Description
+                        </td>
+
+
+                        <td>
+                            <a class="btn btn-primary mdi mdi-pencil" asp-action="Edit" asp-route-id="@book.book_Id" asp-route-img="@book.book_ImagURL">Edit</a>
+                            <a class="btn btn-danger mdi mdi-delete" asp-action="Delete" asp-route-id="@book.book_Id" asp-route-img="@book.book_ImagURL" onclick="return confirm ('Are you sure?')">Delete</a>
+                            
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

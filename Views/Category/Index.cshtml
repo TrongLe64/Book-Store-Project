@@ -1,0 +1,58 @@
+﻿@model IEnumerable<FPTBook_v3.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+}
+
+
+
+<div class="card">
+    <div class="card-body">
+        <h1 class="card-title" style="text-align:center; font-size:30px">Category</h1>
+
+        <a class="btn btn-primary mdi mdi-plus" asp-controller="Category" asp-action="Create">  New Category</a>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Category Name</th>
+                    <th>Category Description</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var category in Model)
+                {
+                    <tr>
+                        <td>
+                           @category.cate_Id
+                        </td>
+                        <td>
+                            @category.cate_Name
+                        </td>
+                        <td style="width: 500px;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        line-height: 25px;
+                        -webkit-line-clamp: 3;
+                        height: 75px;
+                        display: -webkit-box;
+                        -webkit-box-orient: vertical;">
+                            @category.cate_Description
+                        </td>
+                        <td>
+                            <a class="btn btn-danger mdi mdi-delete" asp-action="Delete" asp-route-id="@category.cate_Id" onclick="return confirm ('Are you sure?')">   Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

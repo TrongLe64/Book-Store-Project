@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ApplicationUser>
+
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+
+
+<div class="card">
+    <div class="card-body">
+        <h1 class="card-title" style="text-align:center; font-size:30px">User</h1>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        ID
+                    </th>
+                    <th>
+                        User Name
+                    </th>
+                    <th>
+                        Email
+                    </th>
+                    <th>
+                        Image
+                    </th>
+                    <th>
+                        Phone
+                    </th>
+
+                    <th>
+
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.User_Name</td>
+                        <td>@user.Email</td>
+                        <td> @if (user.User_Img == null)
+                            {
+                                <img src="~/images/NoImage.png" width="100px" height="150px">
+                            }
+                            else
+                            {
+                             <img src="~/uploads/@user.User_Img" width="100px" height="150px">    
+                            }
+                               
+                        </td>
+                        <td>@user.PhoneNumber</td>
+
+
+                        <td>
+                            <a class="btn btn-primary mdi mdi-pencil" asp-controller="Admin" asp-action="EditUser" asp-route-id="@user.Id">Edit</a>
+                            <a class="btn btn-secondary mdi mdi-pencil" asp-controller="Admin" asp-action="DeleteUser" asp-route-id="@user.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

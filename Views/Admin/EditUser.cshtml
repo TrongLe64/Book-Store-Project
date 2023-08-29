@@ -1,0 +1,38 @@
+﻿@model ApplicationUser
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="col-md-8 grid-margin stretch-card" style="margin-left:230px">
+    <div class="card">
+        <div class="card-body">
+            <h3 class="card-title" style="text-align:center">Edit User</h3>
+            <form class="forms-sample" asp-controller="Admin" asp-action="EditUser" method="post">
+                <div class="form-group">
+                    <label >User Name</label>
+                    <input type="text" class="form-control" asp-for="User_Name" placeholder="User Name">
+                    <span asp-validation-for="User_Name"></span>
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="text" class="form-control" asp-for="Email" placeholder="Email">
+                    <span asp-validation-for="Email"></span>
+                </div>
+                <div class="form-group">
+                    <label>PhoneNumber</label>
+                    <input type="text" class="form-control" asp-for="PhoneNumber" placeholder="PhoneNumber">
+                    <span asp-validation-for="PhoneNumber"></span>
+                </div>
+
+                <button type="submit" class="btn btn-gradient-primary me-2">Submit</button>
+                <a class="btn btn-light" asp-action="Index">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

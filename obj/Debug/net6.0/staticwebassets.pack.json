@@ -1,0 +1,1813 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FPTBook_v3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FPTBook_v3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\01a92342-454e-4521-a740-5fbe3f63e95aThe 7 Habits of Highly Effective People.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\01a92342-454e-4521-a740-5fbe3f63e95aThe 7 Habits of Highly Effective People.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\042e862b-d06e-4136-a2a9-8eb61738ed87Dark water daughter.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\042e862b-d06e-4136-a2a9-8eb61738ed87Dark water daughter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\050ad616-025c-4c8a-8120-e3f4c6fd6119Kayo câu cá.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\050ad616-025c-4c8a-8120-e3f4c6fd6119Kayo câu cá.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\0b9017cc-1b73-4e2e-960a-285aeb082147IT.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0b9017cc-1b73-4e2e-960a-285aeb082147IT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\0dd48c04-6cf6-4008-b9db-579a214a328fThe Power of Habit.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0dd48c04-6cf6-4008-b9db-579a214a328fThe Power of Habit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\1262b546-e3c9-4023-ae8f-452b7c9990a0z3867638069899_f3c53f860086cbcba9a8a90bfe55d117.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1262b546-e3c9-4023-ae8f-452b7c9990a0z3867638069899_f3c53f860086cbcba9a8a90bfe55d117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\159b795d-e9e9-4d1a-9a85-2e9e654b9b3dThe Cherry Robbers.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\159b795d-e9e9-4d1a-9a85-2e9e654b9b3dThe Cherry Robbers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\18be6e31-ae2d-40c4-8363-ce2409200e77Forget Me Not.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\18be6e31-ae2d-40c4-8363-ce2409200e77Forget Me Not.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\192e8d0e-36b8-4d43-9c4b-727f6c9cdb3e293002814_163777876218153_4717683729678481331_n.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\192e8d0e-36b8-4d43-9c4b-727f6c9cdb3e293002814_163777876218153_4717683729678481331_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\19ba22f7-4ddd-4c67-951b-25b68e9ba16b185a34e7f28507beebc6e3ea187b6ee7_7313388043272069085.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\19ba22f7-4ddd-4c67-951b-25b68e9ba16b185a34e7f28507beebc6e3ea187b6ee7_7313388043272069085.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\1acb8717-0b61-4ef9-ae15-aaa3b78642a8Truck-san.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1acb8717-0b61-4ef9-ae15-aaa3b78642a8Truck-san.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\1f5d1178-51da-485c-9fc4-b5106543e8ceIn cold.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1f5d1178-51da-485c-9fc4-b5106543e8ceIn cold.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\20b6c3f9-3104-44d3-a240-69723f970b3fWomen.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\20b6c3f9-3104-44d3-a240-69723f970b3fWomen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\22a454c9-d1ee-4a05-9f40-de4666604b08Anatomy.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\22a454c9-d1ee-4a05-9f40-de4666604b08Anatomy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\23296c9f-492e-417a-b573-64e5debf252az4599553763247_3fb5130c3091851c5e8bb8660c7f4303.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\23296c9f-492e-417a-b573-64e5debf252az4599553763247_3fb5130c3091851c5e8bb8660c7f4303.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\2589f6f0-21ad-49db-85fa-843c53914bc9Python pro.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2589f6f0-21ad-49db-85fa-843c53914bc9Python pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\26cf4667-ad63-4c66-8130-68498b9ee001Taste.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\26cf4667-ad63-4c66-8130-68498b9ee001Taste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\26cf62c3-4604-4704-855e-aaeb20ed6800.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\26cf62c3-4604-4704-855e-aaeb20ed6800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\28b04b83-5fa2-480f-b85c-2e65be6f8694Hello Stranger.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\28b04b83-5fa2-480f-b85c-2e65be6f8694Hello Stranger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\2d9255a0-1753-48a7-9e6b-de30703643faAnd then there.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2d9255a0-1753-48a7-9e6b-de30703643faAnd then there.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\346958e6-dc93-4c66-badd-183e064899f6289051010_450435450162654_3161096143541211625_n.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\346958e6-dc93-4c66-badd-183e064899f6289051010_450435450162654_3161096143541211625_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\35173b59-dea1-477a-b84c-533c290683dfThe Beekeeper's Bible.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\35173b59-dea1-477a-b84c-533c290683dfThe Beekeeper's Bible.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\392fc0ac-7cd8-4b1b-9c3f-e66d8471c288Kayo meow.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\392fc0ac-7cd8-4b1b-9c3f-e66d8471c288Kayo meow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\4330725f-5426-4aa0-a51a-588b602cf0dc.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4330725f-5426-4aa0-a51a-588b602cf0dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\460caa8c-d40d-4a90-b2c6-6a07084d559eJett meow.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\460caa8c-d40d-4a90-b2c6-6a07084d559eJett meow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\48cb5b1e-a5e1-4cf8-9258-91b8e5c5b47c.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\48cb5b1e-a5e1-4cf8-9258-91b8e5c5b47c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\4a29ac1b-a698-4c38-b314-6b01ae306dafThe stars are dying.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4a29ac1b-a698-4c38-b314-6b01ae306dafThe stars are dying.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\4a56441f-51fe-4e4b-9f67-813b6fe8d0b8z4008030840376_01b0db4749ff966af409a5863cf7e556.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4a56441f-51fe-4e4b-9f67-813b6fe8d0b8z4008030840376_01b0db4749ff966af409a5863cf7e556.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\4ac2becc-363d-45f8-82ae-671413dbbdb3The Little Library Cookbook.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4ac2becc-363d-45f8-82ae-671413dbbdb3The Little Library Cookbook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\4bca6eb8-6ade-4755-91b3-7f5ea0b8a081Business or Pleasure.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4bca6eb8-6ade-4755-91b3-7f5ea0b8a081Business or Pleasure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\51c6b7bb-a32f-4813-b9a6-94b9908d9b74Anatomy.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\51c6b7bb-a32f-4813-b9a6-94b9908d9b74Anatomy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\5224517e-ae0c-470f-88f3-931fa1f8f5a7Build Your Own Test Framework.png",
+      "PackagePath": "staticwebassets\\Uploads\\5224517e-ae0c-470f-88f3-931fa1f8f5a7Build Your Own Test Framework.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\5481ebe6-d34c-4492-bb41-d404b2f5c829324501502_1214163559456348_8040020440146947264_n.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5481ebe6-d34c-4492-bb41-d404b2f5c829324501502_1214163559456348_8040020440146947264_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\56752d3b-c79c-44aa-8f62-74e69082ef16.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\56752d3b-c79c-44aa-8f62-74e69082ef16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\57478629-9adf-4bc5-a62e-1567faa70c11Love In The Time Of Cholera – Gabriel Garcia Marquez.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\57478629-9adf-4bc5-a62e-1567faa70c11Love In The Time Of Cholera – Gabriel Garcia Marquez.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\5b682878-952c-4a38-8340-8f31ef4130d9P.S. I Love You – Cecelia Ahern.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5b682878-952c-4a38-8340-8f31ef4130d9P.S. I Love You – Cecelia Ahern.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\5b86c38c-c97d-40f0-9d78-c5eeacea4672.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5b86c38c-c97d-40f0-9d78-c5eeacea4672.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\5c2d97b6-6524-43a4-af00-ea601163a1deThe 5 Love Languages – Gary Chapman.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5c2d97b6-6524-43a4-af00-ea601163a1deThe 5 Love Languages – Gary Chapman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\5ff6cfe4-cfb9-48ac-9f6a-5be580b1be06The big Sleep.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5ff6cfe4-cfb9-48ac-9f6a-5be580b1be06The big Sleep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\603b1c47-9802-4ee2-9ec8-db6702e0b5b1Jett nặn tuyết.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\603b1c47-9802-4ee2-9ec8-db6702e0b5b1Jett nặn tuyết.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\60d017e1-e963-409a-bdcd-61cf641daf25Gone girl.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\60d017e1-e963-409a-bdcd-61cf641daf25Gone girl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\61cfa883-5646-4938-ab6c-e4214d25e762Clean code.png",
+      "PackagePath": "staticwebassets\\Uploads\\61cfa883-5646-4938-ab6c-e4214d25e762Clean code.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\6256604b-5854-434e-a3b9-9a92343f6230Red.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\6256604b-5854-434e-a3b9-9a92343f6230Red.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\652167d2-6ca9-407d-88c3-17a9a89c9349Manual.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\652167d2-6ca9-407d-88c3-17a9a89c9349Manual.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\68460267-6998-457e-997e-17b9239d36e6The Enchantress.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\68460267-6998-457e-997e-17b9239d36e6The Enchantress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\6b8d9e7a-c00d-4852-95f5-4784326493eaChill.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\6b8d9e7a-c00d-4852-95f5-4784326493eaChill.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\719f4697-896b-4ba7-bf0e-e095d2d52eba316218277_676310224151686_7001944770444788992_n.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\719f4697-896b-4ba7-bf0e-e095d2d52eba316218277_676310224151686_7001944770444788992_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\72c27cb4-62af-43aa-910b-844cd53bfbf4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\72c27cb4-62af-43aa-910b-844cd53bfbf4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\73a0ef4a-70f0-41f5-ad88-32ca90c54ab5Build Your Own Test Framework.png",
+      "PackagePath": "staticwebassets\\Uploads\\73a0ef4a-70f0-41f5-ad88-32ca90c54ab5Build Your Own Test Framework.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\74526bb8-5a35-434f-bb5a-cb226d45abecPigeon Tony's Last Stand.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\74526bb8-5a35-434f-bb5a-cb226d45abecPigeon Tony's Last Stand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\75d117d7-0426-4d04-9fc2-2bcdaa267cfcScreenshot 2023-03-04 215444.png",
+      "PackagePath": "staticwebassets\\Uploads\\75d117d7-0426-4d04-9fc2-2bcdaa267cfcScreenshot 2023-03-04 215444.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\767d106d-c408-4eeb-9e6b-295ef5f07533The Faraway World.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\767d106d-c408-4eeb-9e6b-295ef5f07533The Faraway World.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\7902c68f-5951-48fc-a3ef-f114773771e2324501502_1214163559456348_8040020440146947264_n.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\7902c68f-5951-48fc-a3ef-f114773771e2324501502_1214163559456348_8040020440146947264_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\7d8762b5-586d-4efc-a34d-666eb311878dThe big Sleep.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\7d8762b5-586d-4efc-a34d-666eb311878dThe big Sleep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\7e974682-de7c-4d14-9329-7d8eda10feb5Screenshot 2023-08-07 033945.png",
+      "PackagePath": "staticwebassets\\Uploads\\7e974682-de7c-4d14-9329-7d8eda10feb5Screenshot 2023-08-07 033945.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\82c7f5a0-01fa-483a-9a03-a0d3d4f593c8Screenshot 2023-03-04 215315.png",
+      "PackagePath": "staticwebassets\\Uploads\\82c7f5a0-01fa-483a-9a03-a0d3d4f593c8Screenshot 2023-03-04 215315.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\85666219-90eb-4b0e-b747-2143da9748aeUnlucky.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\85666219-90eb-4b0e-b747-2143da9748aeUnlucky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\866a760b-37c4-49f0-a142-45077dffb96fHow to Win Friends and Influence People.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\866a760b-37c4-49f0-a142-45077dffb96fHow to Win Friends and Influence People.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\88e58461-ed56-45dc-ad0d-beb34027183aKhủng nhong.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\88e58461-ed56-45dc-ad0d-beb34027183aKhủng nhong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\90096596-0243-47c3-b248-436238b4b622A game of Gods.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\90096596-0243-47c3-b248-436238b4b622A game of Gods.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\93290dda-ee11-4a6b-8e39-1a69b7dcfa81.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\93290dda-ee11-4a6b-8e39-1a69b7dcfa81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\97020bd1-b7cb-4573-955b-bc32b95c29adClean code.png",
+      "PackagePath": "staticwebassets\\Uploads\\97020bd1-b7cb-4573-955b-bc32b95c29adClean code.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\9f28e7d8-9b3f-4d61-8501-02093a97e8c6Living_Loving_and_Learning.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9f28e7d8-9b3f-4d61-8501-02093a97e8c6Living_Loving_and_Learning.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\9fe3fcbf-c154-403e-bb06-5e2352458a0f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9fe3fcbf-c154-403e-bb06-5e2352458a0f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\a2d610ee-0fe0-4278-8845-5f33a1168d5fGone girl.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a2d610ee-0fe0-4278-8845-5f33a1168d5fGone girl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\a3f5f9a6-8aa3-4c36-a1fd-2a8fa0f5be62Cool. Awkward. Black..jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a3f5f9a6-8aa3-4c36-a1fd-2a8fa0f5be62Cool. Awkward. Black..jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\a5199158-3837-4eaa-abce-b544063109a6Screenshot 2023-03-04 215139.png",
+      "PackagePath": "staticwebassets\\Uploads\\a5199158-3837-4eaa-abce-b544063109a6Screenshot 2023-03-04 215139.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\a7126490-88af-44aa-8f77-ae444c516abaITT.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a7126490-88af-44aa-8f77-ae444c516abaITT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\ae448599-8a92-4b25-b012-27720b997930Sage nặn tuyết.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ae448599-8a92-4b25-b012-27720b997930Sage nặn tuyết.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\b1dc5633-a105-4feb-934a-e4fa3ee07a5bThe Postman.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b1dc5633-a105-4feb-934a-e4fa3ee07a5bThe Postman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\b34bd9b6-65c6-4fd2-bd91-b60daab9d0ebAtomic Habits.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b34bd9b6-65c6-4fd2-bd91-b60daab9d0ebAtomic Habits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\b721bea8-feaf-4b3f-bb14-f08bdbbac1b0In Cold Blood.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b721bea8-feaf-4b3f-bb14-f08bdbbac1b0In Cold Blood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\ba135a81-bbcc-4f4e-b8b7-d7efde5b8101Ghost 19.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ba135a81-bbcc-4f4e-b8b7-d7efde5b8101Ghost 19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\bc2ea276-96b3-424b-b78f-3f983815dbc9Screenshot 2023-03-04 214135.png",
+      "PackagePath": "staticwebassets\\Uploads\\bc2ea276-96b3-424b-b78f-3f983815dbc9Screenshot 2023-03-04 214135.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\bda9a0cc-1893-4e5e-b549-7bf108e3ac0b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bda9a0cc-1893-4e5e-b549-7bf108e3ac0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\bdb97c37-84b7-4a0b-b13d-21812300eaf3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bdb97c37-84b7-4a0b-b13d-21812300eaf3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\c68ac976-2302-455c-9882-64992aeec81fCraking.png",
+      "PackagePath": "staticwebassets\\Uploads\\c68ac976-2302-455c-9882-64992aeec81fCraking.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\c6c45d02-94c1-4dbb-8d2c-913c072d96d2The Walking Dead.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c6c45d02-94c1-4dbb-8d2c-913c072d96d2The Walking Dead.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\c898ac31-462c-475b-8546-d558f75f0ea3The Enemy.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c898ac31-462c-475b-8546-d558f75f0ea3The Enemy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\c9abb90b-22ff-4bcf-bdae-4555857ed0f8It.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c9abb90b-22ff-4bcf-bdae-4555857ed0f8It.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\cdbf184b-c3f4-4977-b827-8dc085f45976asdafsf.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\cdbf184b-c3f4-4977-b827-8dc085f45976asdafsf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\d2c10a32-263b-4f0c-b494-bd2c0a7cf000b443ef44e73727697e26.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d2c10a32-263b-4f0c-b494-bd2c0a7cf000b443ef44e73727697e26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\d405ab6e-eb28-4501-9116-a8d70cf0d30bRelations.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d405ab6e-eb28-4501-9116-a8d70cf0d30bRelations.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\d423e475-477c-4bd0-bf3f-6e7196112275Doctor Sleep.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d423e475-477c-4bd0-bf3f-6e7196112275Doctor Sleep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\d4b1be77-7ebb-434e-80cf-c60057297a01.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d4b1be77-7ebb-434e-80cf-c60057297a01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\d695f675-1823-46da-a622-dc0c37df2ad8.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d695f675-1823-46da-a622-dc0c37df2ad8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\d6b5881f-cf15-4c87-98aa-202b414506f5A Novel.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d6b5881f-cf15-4c87-98aa-202b414506f5A Novel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\d8726e85-0798-4f2d-9972-a93b43729553.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d8726e85-0798-4f2d-9972-a93b43729553.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\dccf5cd6-641a-413f-a15b-310b558c5466The Life-Changing Magic of Tidying Up.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\dccf5cd6-641a-413f-a15b-310b558c5466The Life-Changing Magic of Tidying Up.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\deea8b31-6a49-4416-bfb2-797999c2bbccThe Shining.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\deea8b31-6a49-4416-bfb2-797999c2bbccThe Shining.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\e0042cdc-f57f-44c5-b2d7-8d45fb46435fScreenshot 2023-03-04 214135.png",
+      "PackagePath": "staticwebassets\\Uploads\\e0042cdc-f57f-44c5-b2d7-8d45fb46435fScreenshot 2023-03-04 214135.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\e29820db-7bcc-44c3-853d-ce5016e23cc3Living_Loving_and_Learning.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e29820db-7bcc-44c3-853d-ce5016e23cc3Living_Loving_and_Learning.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\e390e7dc-b124-4f04-b43c-704187baed11Dining In.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e390e7dc-b124-4f04-b43c-704187baed11Dining In.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\e43b1373-1d20-4898-a9fd-f0f051dc20f8Quiet.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e43b1373-1d20-4898-a9fd-f0f051dc20f8Quiet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\e517e350-6e75-4624-a53d-8c1cba9f43faInferno.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e517e350-6e75-4624-a53d-8c1cba9f43faInferno.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\e98cfe4f-0112-4a32-abaa-f969fe7905f7Tales from the Scaremaster.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e98cfe4f-0112-4a32-abaa-f969fe7905f7Tales from the Scaremaster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\f0081373-c365-4427-915a-7cdd149d9a96The Postman Always Rings.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f0081373-c365-4427-915a-7cdd149d9a96The Postman Always Rings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\f1b3158d-f0f3-41be-88cc-24ea0caeacbd327799681_492778066394684_2281040845599201422_n.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f1b3158d-f0f3-41be-88cc-24ea0caeacbd327799681_492778066394684_2281040845599201422_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\f38b8abe-90ab-4a0c-ac7b-ba1c44a32bfdBé eooooo.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f38b8abe-90ab-4a0c-ac7b-ba1c44a32bfdBé eooooo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\f4f92233-2cd1-475f-a79e-51b38cdd34b1The Graveyard Book.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f4f92233-2cd1-475f-a79e-51b38cdd34b1The Graveyard Book.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\f67f2f1c-a6fa-4e53-ad85-e9e64d14791cPAY DIRT ROAD.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f67f2f1c-a6fa-4e53-ad85-e9e64d14791cPAY DIRT ROAD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\f81c9d7e-9516-4112-a6b6-07acb9ca0147100 Easy Camping Recipes.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f81c9d7e-9516-4112-a6b6-07acb9ca0147100 Easy Camping Recipes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\f8db414c-5ef5-4213-9023-a1224ec0a3daCravings.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f8db414c-5ef5-4213-9023-a1224ec0a3daCravings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\fd0ba1a7-5b36-4234-9350-82841a8999ffUnknown Caller.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\fd0ba1a7-5b36-4234-9350-82841a8999ffUnknown Caller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\fe81e4f5-0753-4d93-9fed-28d5be6fc797You with a view.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\fe81e4f5-0753-4d93-9fed-28d5be6fc797You with a view.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\Uploads\\ff3dc129-17f5-46f1-a74f-eef09ba30d82.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ff3dc129-17f5-46f1-a74f-eef09ba30d82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\images\\ny.jpg",
+      "PackagePath": "staticwebassets\\images\\ny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\css\\main.css",
+      "PackagePath": "staticwebassets\\login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\css\\util.css",
+      "PackagePath": "staticwebassets\\login\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\js\\main.js",
+      "PackagePath": "staticwebassets\\login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\css\\style.css",
+      "PackagePath": "staticwebassets\\owner\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\owner\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\owner\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\owner\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\owner\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\owner\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\owner\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\owner\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\owner\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\Duck.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\Duck.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\Mouse.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\Mouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\owner\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\owner\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\owner\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\owner\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\owner\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\owner\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\owner\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\owner\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\owner\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\owner\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\owner\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\owner\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\chart.js",
+      "PackagePath": "staticwebassets\\owner\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\owner\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\owner\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\owner\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\owner\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\misc.js",
+      "PackagePath": "staticwebassets\\owner\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\owner\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\todo.js",
+      "PackagePath": "staticwebassets\\owner\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\owner\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\owner\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\owner\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\owner\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\owner\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\owner\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\owner\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\owner\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\owner\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\owner\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\owner\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\owner\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\owner\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\user\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\user\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\user\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\user\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\about-fullscreen-1-1920x700.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\about-fullscreen-1-1920x700.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\banner-image-1-1920x300.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\banner-image-1-1920x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\blog-1-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog-1-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\blog-2-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog-2-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\blog-3-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog-3-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\blog-4-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog-4-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\blog-5-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog-5-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\blog-6-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog-6-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\blog-fullscreen-1-1920x700.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog-fullscreen-1-1920x700.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\comment-author-01.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\comment-author-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\comment-author-02.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\comment-author-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\comment-author-03.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\comment-author-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\map.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\product-1-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-1-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\product-2-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-2-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\product-3-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-3-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\product-4-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-4-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\product-5-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-5-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\images\\product-6-720x480.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-6-720x480.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\user\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\user\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lamxu\\Downloads\\FPTBook-Main-ASM2\\FPTBook-Main\\wwwroot\\user\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\user\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FPTBook_v3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FPTBook_v3.props",
+      "PackagePath": "build\\FPTBook_v3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FPTBook_v3.props",
+      "PackagePath": "buildMultiTargeting\\FPTBook_v3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FPTBook_v3.props",
+      "PackagePath": "buildTransitive\\FPTBook_v3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,85 @@
+﻿@model FPTBook_v3.Models.Book
+
+@{
+    ViewData["Title"] = "BookDetail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>BookDetail</h1>
+
+<div>
+    <hr />
+    <div class="row">
+        <div class="col-md-2">
+            <img src="~/uploads/@Model.book_ImagURL" style="width:150px;height:200px" />
+        </div>
+        <div class="col-md-10">
+            <dl class="row">
+                <dt class="col-sm-2">
+                    Title
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.book_Title
+                </dd>
+                <dt class="col-sm-2">
+                    Publication Date
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.publication_date.ToString("dd/MM/yyyy")
+                </dd>
+                <dt class="col-sm-2">
+                    Description
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.book_Description
+                </dd>
+                <dt class="col-sm-2">
+                    Price
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.book_Price
+                </dd>
+                <dt class="col-sm-2">
+                    Category
+                </dt>
+                <dd class="col-sm-10">
+                    @Model.category.cate_Name
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+<div>
+    @if (@Model.book_Quantity == 0)
+    {
+        <button type="button" class="btn btn-secondary">Out Of Stock</button>
+    }
+    else
+    {
+        <a type="button" onclick="add(@Model.book_Id)" class="btn btn-success"><i class="bi bi-cart text-white"></i></a>
+    }
+    <a asp-action="ShowBook" class="btn btn-primary">Back to List</a>
+</div>
+
+@section Scripts{
+    <script>
+        async function add(bookId) {
+            var usernameEl = document.getElementById("username");
+            if (usernameEl == null) {
+                window.location.href = "/Identity/Account/Login";
+            }
+            try {
+                var response = await fetch(`/User/Cart/AddItem?bookId=${bookId}`);
+                if (response.status == 200) {
+                    var result = await response.json();
+                    var cartCountEl = document.getElementById("cartCount");
+                    cartCountEl.innerHTML = result;
+                    window.location.href = "/User/Cart/GetUserCart";
+                }
+            }
+            catch (err) {
+                console.log(err);
+            }
+        }
+    </script>
+}
